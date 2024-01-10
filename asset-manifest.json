@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/milasari22-portofolio-react/static/css/main.fdd6b6b5.css",
+    "main.js": "/milasari22-portofolio-react/static/js/main.a2f3b356.js",
+    "static/media/logo.jpeg": "/milasari22-portofolio-react/static/media/logo.4beb4fa2f9103dcd4b05.jpeg",
+    "index.html": "/milasari22-portofolio-react/index.html",
+    "main.fdd6b6b5.css.map": "/milasari22-portofolio-react/static/css/main.fdd6b6b5.css.map",
+    "main.a2f3b356.js.map": "/milasari22-portofolio-react/static/js/main.a2f3b356.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fdd6b6b5.css",
+    "static/js/main.a2f3b356.js"
+  ]
+}
