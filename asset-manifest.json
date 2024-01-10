@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/milasari22-portofolio-react/static/css/main.0a7afaa4.css",
-    "main.js": "/milasari22-portofolio-react/static/js/main.9dd8beb4.js",
+    "main.css": "/milasari22-portofolio-react/static/css/main.c1186f85.css",
+    "main.js": "/milasari22-portofolio-react/static/js/main.b4a61497.js",
     "static/media/pelanggan.png": "/milasari22-portofolio-react/static/media/pelanggan.f2decef75c8dacf3bcc3.png",
     "static/media/kelompok.jpeg": "/milasari22-portofolio-react/static/media/kelompok.518aff4ed9f138905212.jpeg",
     "static/media/admin.png": "/milasari22-portofolio-react/static/media/admin.898328dc365aed6089db.png",
-    "static/media/logo.jpeg": "/milasari22-portofolio-react/static/media/logo.4beb4fa2f9103dcd4b05.jpeg",
+    "static/media/tentang.jpeg": "/milasari22-portofolio-react/static/media/tentang.eb82e50118f7714c538c.jpeg",
     "static/media/image.jpeg": "/milasari22-portofolio-react/static/media/image.d717c4d42ac65bb7b884.jpeg",
     "index.html": "/milasari22-portofolio-react/index.html",
-    "main.0a7afaa4.css.map": "/milasari22-portofolio-react/static/css/main.0a7afaa4.css.map",
-    "main.9dd8beb4.js.map": "/milasari22-portofolio-react/static/js/main.9dd8beb4.js.map"
+    "main.c1186f85.css.map": "/milasari22-portofolio-react/static/css/main.c1186f85.css.map",
+    "main.b4a61497.js.map": "/milasari22-portofolio-react/static/js/main.b4a61497.js.map"
   },
   "entrypoints": [
-    "static/css/main.0a7afaa4.css",
-    "static/js/main.9dd8beb4.js"
+    "static/css/main.c1186f85.css",
+    "static/js/main.b4a61497.js"
   ]
 }
