@@ -1,9 +1,9 @@
 import ServiceItem from "./ServiceItem";
 function Services() {
   return (
-    <div className="section bg-dark text-light">
+    <div className="section text-light services">
       <div className="container">
-        <h1>Riwayat Hidup</h1>
+        <h1>Riwayat Pendidikan</h1>
         <div className="row">
           <ServiceItem
             judul="Taman Kanak-kanak (TK)"

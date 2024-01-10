@@ -1,0 +1,23 @@
+.card {
+  transition: 0.8s;
+  border-left: cyan solid 5px;
+}
+
+.card:hover {
+  transform: rotateX(30deg);
+}
+
+.img-fluid {
+  width: 400px;
+  height: 200px;
+}
+
+.gambarku {
+  transition: 0.5s;
+  border-radius: 50%;
+}
+
+.gambarku:hover {
+  transform: scale(1.1);
+  border-radius: 5%;
+}

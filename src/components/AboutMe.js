@@ -4,7 +4,7 @@ function AboutMe() {
     <div className="section">
       <div className="row align-items-center">
         <div className="col-6 text-center">
-          <img src={logo} />
+          <img className="image" src={logo} />
         </div>
         <div className="col-6">
           <h1>About Me</h1>
@@ -20,6 +20,9 @@ function AboutMe() {
             merincikan riwayat hidup saya dan pengalaman dalam dunia rekayasa
             perangkat lunak."
           </p>
+          <button type="button" class="btn btn-outline-info">
+            Download CV
+          </button>
         </div>
       </div>
     </div>

@@ -1,3 +1,5 @@
+import "../styles/ServiceItem.css";
+
 function ServiceItem(props) {
   return (
     <div className="col-6 mt-3">

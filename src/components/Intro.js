@@ -1,9 +1,9 @@
-import logo from "../assets/logo.jpeg";
+import image from "../assets/image.jpeg";
 function Intro() {
   return (
     <div className="section text-light intro">
       <div className="container text-center">
-        <img src={logo} />
+        <img className="image" src={image} />
         <h1>MILA SARI</h1>
         <p>Web Developer</p>
         <a target="_blank" href="#" className="media_social">
