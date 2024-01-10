@@ -31,7 +31,7 @@ function Navbar() {
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="#">
-                  Riwayat Hidup
+                  Riwayat
                 </a>
               </li>
             </ul>
