@@ -4,7 +4,7 @@ function AboutMe() {
     <div className="section">
       <div className="row align-items-center">
         <div className="col-6 text-center">
-          <img className="image" src={logo} />
+          <img className="tentang" src={logo} />
         </div>
         <div className="col-6">
           <h1>About Me</h1>
