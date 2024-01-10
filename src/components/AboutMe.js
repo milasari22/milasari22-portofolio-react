@@ -1,10 +1,10 @@
-import logo from "../assets/logo.jpeg";
+import tentang from "../assets/tentang.jpeg";
 function AboutMe() {
   return (
     <div className="section">
       <div className="row align-items-center">
         <div className="col-6 text-center">
-          <img className="tentang" src={logo} />
+          <img className="tentang" src={tentang} />
         </div>
         <div className="col-6">
           <h1>About Me</h1>
@@ -20,7 +20,7 @@ function AboutMe() {
             merincikan riwayat hidup saya dan pengalaman dalam dunia rekayasa
             perangkat lunak."
           </p>
-          <button type="button" class="btn btn-outline-info">
+          <button type="button" class="btn btn-outline-dark">
             Download CV
           </button>
         </div>
