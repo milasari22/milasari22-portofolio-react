@@ -6,9 +6,6 @@ function Intro() {
         <img className="image" src={image} />
         <h1>MILA SARI</h1>
         <p>Web Developer</p>
-        <a target="_blank" href="#" className="media_social">
-          <i class="bi bi-facebook"></i>
-        </a>
         <a
           target="_blank"
           href=" https://wa.me/6282336855778"
@@ -29,6 +26,13 @@ function Intro() {
           className="media_social"
         >
           <i class="bi bi-instagram"></i>
+        </a>
+        <a
+          target="_blank"
+          href="https://youtube.com/@milasari_mil?si=jUmPCNA2Z4Jmq85G"
+          className="media_social"
+        >
+          <i class="bi bi-youtube"></i>
         </a>
       </div>
     </div>

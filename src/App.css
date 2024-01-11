@@ -8,6 +8,10 @@
   background: linear-gradient(black, navy);
 }
 
+.finish {
+  background: linear-gradient(black, navy);
+}
+
 .section {
   min-height: 100vh;
   display: flex;

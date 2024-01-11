@@ -21,7 +21,7 @@ function Navbar() {
             <ul class="navbar-nav ms-auto">
               <li class="nav-item">
                 <a class="nav-link active" aria-current="page" href="#">
-                  Intro
+                  Home
                 </a>
               </li>
               <li class="nav-item">
