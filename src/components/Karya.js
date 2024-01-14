@@ -3,12 +3,11 @@ function Karya() {
     <div>
       <div className="finish text-light intro row align-items-center">
         <h1 className="text-center">About Me</h1>
-        <div className="col-6">
-          <h1>---</h1>
-        </div>
-        <div className="col-6">
-          <p>---</p>
-        </div>
+        <p className="text-center">
+          <b>Email : </b> mikky.228899@gmail.com <br />
+          <b>Alamat :</b> jln gondang, Dusun sungai tengah,
+          <br /> Manggisan Tanggul Jember
+        </p>
       </div>
     </div>
   );
